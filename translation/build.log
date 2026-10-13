@@ -1,0 +1,2142 @@
+(node:81331) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+21:57:01 [astro-mermaid] Setting up Mermaid integration
+21:57:01 [astro-mermaid] Existing rehype plugins:
+21:57:01 [astro-mermaid] Skipping ELK support
+21:57:01 [WARN] [content] article.mdx must live in a content/... collection subdirectory.
+✘ [ERROR] The build was canceled
+
+21:57:01 [types] Generated 216ms
+21:57:01 [build] output: "static"
+21:57:01 [build] directory: /Users/lezewei/project/study/blog/smol-training/source/app/dist/
+21:57:01 [build] Collecting build info...
+21:57:01 [build] ✓ Completed in 226ms.
+21:57:01 [build] Building static entrypoints...
+🔍 Link trouvé: {
+  text: 'SmolLM3',
+  url: 'https://huggingface.co/HuggingFaceTB/SmolLM3-3B',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'FineWeb',
+  url: 'https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'The Ultra-Scale Playbook',
+  url: 'https://huggingface.co/spaces/nanotron/ultrascale-playbook',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'The LLM Evaluation Guidebook',
+  url: 'https://github.com/huggingface/evaluation-guidebook',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“Every Big Model Starts with a Small Ablation”',
+  url: '#every-big-model-starts-with-a-small-ablation',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“Muon is Scalable for LLM Training.”',
+  url: 'https://huggingface.co/papers/2502.16982',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.”',
+  url: 'https://huggingface.co/papers/2501.12948',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“Textbooks Are All You Need.”',
+  url: 'https://huggingface.co/papers/2306.11644',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“The Common Pile v0.1: An 8TB Dataset of Public Domain and Openly Licensed Text.”',
+  url: 'https://huggingface.co/papers/2506.05209',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Genie 3',
+  url: 'https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/',
+  matches: false
+}
+🔍 Link trouvé: { text: 'Ai2', url: 'https://allenai.org/', matches: false }
+🔍 Link trouvé: {
+  text: 'Stanford’s Marin community',
+  url: 'https://marin.community/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '@gpt3',
+  url: 'https://huggingface.co/papers/2005.14165',
+  matches: true
+}
+✅ Transformation: @gpt3
+🔍 Link trouvé: {
+  text: 'BigScience workshop',
+  url: 'https://bigscience.huggingface.co/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'BLOOM',
+  url: 'https://huggingface.co/bigscience/bloom',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '@starcoder',
+  url: 'https://huggingface.co/papers/2305.06161',
+  matches: true
+}
+✅ Transformation: @starcoder
+🔍 Link trouvé: {
+  text: '@codex',
+  url: 'https://huggingface.co/papers/2107.03374',
+  matches: true
+}
+✅ Transformation: @codex
+🔍 Link trouvé: {
+  text: 'BigCode',
+  url: 'https://huggingface.co/bigcode',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'The Stack',
+  url: 'https://huggingface.co/datasets/bigcode/the-stack',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'StarCoder 15B',
+  url: 'https://huggingface.co/bigcode/starcoder',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'StarCoder2',
+  url: 'https://huggingface.co/collections/bigcode/starcoder2-65de6da6e87db3383572be1a',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '@starcoder2',
+  url: 'https://huggingface.co/papers/2402.19173',
+  matches: true
+}
+✅ Transformation: @starcoder2
+🔍 Link trouvé: {
+  text: 'SmolLM family',
+  url: 'https://huggingface.co/HuggingFaceTB',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'FineWeb-Edu',
+  url: 'https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'SmolLM',
+  url: 'https://huggingface.co/collections/HuggingFaceTB/smollm-6695016cad7167254ce15966',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'SmolLM2',
+  url: 'https://huggingface.co/collections/HuggingFaceTB/smollm2-6723884218bcda64b34d7db9',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'SmolLM3',
+  url: 'https://huggingface.co/HuggingFaceTB/SmolLM3-3B',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Zephyr',
+  url: 'https://huggingface.co/HuggingFaceH4/zephyr-7b-alpha',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Open-R1',
+  url: 'https://github.com/huggingface/open-r1',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'OlympicCoder',
+  url: 'https://huggingface.co/open-r1/OlympicCoder-7B',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'SmolVLM',
+  url: 'https://huggingface.co/collections/HuggingFaceTB/smolvlm-6740bd584b2dcbf51ecb1f39',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'SmolVLA',
+  url: 'https://huggingface.co/lerobot/smolvla_base',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'https://huggingface.co/science',
+  url: 'https://huggingface.co/science',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“Every Big Model Starts with a Small Ablation,”',
+  url: '#every-big-model-starts-with-a-small-ablation',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'previous section',
+  url: '#training-compass-why--what--how',
+  matches: false
+}
+🔍 Link trouvé: { text: 'arXiv', url: 'https://arxiv.org/', matches: false }
+🔍 Link trouvé: {
+  text: 'blog post',
+  url: 'https://huggingface.co/spaces/HuggingFaceFW/blogpost-fine-tasks',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“Designing the Model Architecture,”',
+  url: '#designing-the-model-architecture',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Llama 3.1',
+  url: 'https://huggingface.co/collections/meta-llama/llama-31-669fc079a0c406a149a5738f',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Llama 3.2',
+  url: 'https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Qwen3',
+  url: 'https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Gemma 3',
+  url: 'https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'SmolLM2',
+  url: 'https://huggingface.co/collections/HuggingFaceTB/smollm2-6723884218bcda64b34d7db9',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'SmolLM3',
+  url: 'https://huggingface.co/HuggingFaceTB/SmolLM3-3B',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Qwen3 MoE',
+  url: 'https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'gpt-oss',
+  url: 'https://huggingface.co/collections/openai/gpt-oss-68911959590a1634ba11c7a4',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Kimi Moonlight',
+  url: 'https://huggingface.co/moonshotai/Moonlight-16B-A3B-Instruct',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Kimi K2',
+  url: 'https://huggingface.co/collections/moonshotai/kimi-k2-6871243b990f2af5ba60617d',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'DeepSeek-V3',
+  url: 'https://huggingface.co/deepseek-ai/DeepSeek-V3',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Zamba2',
+  url: 'https://huggingface.co/Zyphra/models?search=zamba2',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Falcon-H1',
+  url: 'https://huggingface.co/collections/tiiuae/falcon-h1-6819f2795bc406da60fab8df',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Qwen3-Next',
+  url: 'https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'MiniMax-01',
+  url: 'https://huggingface.co/MiniMaxAI/MiniMax-Text-01',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'MiMo-V2-Flash',
+  url: 'https://huggingface.co/XiaomiMiMo/MiMo-V2-Flash',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Megatron-LM',
+  url: 'https://github.com/NVIDIA/Megatron-LM',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'DeepSpeed',
+  url: 'https://github.com/deepspeedai/DeepSpeed',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'TorchTitan',
+  url: 'https://github.com/pytorch/torchtitan',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Nanotron',
+  url: 'https://github.com/huggingface/nanotron',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Ultra-Scale Playbook',
+  url: 'https://huggingface.co/spaces/nanotron/ultrascale-playbook',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'a fork of TorchTitan',
+  url: 'https://x.com/cHHillee/status/1949470943291805832',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Llama 3.2 1B',
+  url: 'https://huggingface.co/meta-llama/Llama-3.2-1B',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'this',
+  url: 'https://huggingface.co/datasets/HuggingFaceTB/training-guide-nanotron-configs/blob/main/baseline_config_1B.yaml',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'architecture choices',
+  url: '#architecture-choices',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'optimizer and training hyperparameters',
+  url: '#optimiser-and-training-hyperparameters',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'data curation',
+  url: '#the-art-of-data-curation',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'FineTasks',
+  url: 'https://huggingface.co/spaces/HuggingFaceFW/blogpost-fine-tasks',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'FineWeb2',
+  url: 'https://arxiv.org/pdf/2506.20920',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“Beyond Base Models—Post-Training.”',
+  url: '#beyond-base-models--post-training-in-2025',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'FineWeb',
+  url: 'https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'LightEval',
+  url: 'https://github.com/huggingface/lighteval',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'interactive version',
+  url: 'https://huggingface.co/datasets/HuggingFaceTB/llm-benchmarks-viewer/viewer',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'FineWeb-Edu',
+  url: 'https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'FineMath',
+  url: 'https://huggingface.co/datasets/HuggingFaceTB/finemath',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Stack-Edu-Python',
+  url: 'https://huggingface.co/datasets/HuggingFaceTB/stack-edu',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'DeepSeek-V3',
+  url: 'https://huggingface.co/deepseek-ai/DeepSeek-V3',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'the world fixated',
+  url: 'https://www.forbes.com/sites/markminevich/2025/02/06/the-6-million-ai-bombshell-how-deepseek-shook-wall-street-and-ai-leadership/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'blog post',
+  url: 'https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/?t=1',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'training compass',
+  url: '#training-compass-why--what--how',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'HuggingFaceTB/training-guide-nanotron-configs',
+  url: 'https://huggingface.co/datasets/HuggingFaceTB/training-guide-nanotron-configs/tree/main',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“Big LLM Architecture Comparison”',
+  url: 'https://sebastianraschka.com/blog/2025/the-big-llm-architecture-comparison.html',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Jay Alamar’s famous blog post',
+  url: 'https://jalammar.github.io/illustrated-transformer/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'baseline',
+  url: 'https://huggingface.co/datasets/HuggingFaceTB/ablations-training-configs/blob/main/baseline_config_1B.yaml',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'here',
+  url: 'https://huggingface.co/datasets/HuggingFaceTB/training-guide-nanotron-configs/tree/main/attention',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: ' analysis',
+  url: 'https://www.harmdevries.com/post/context-length/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'FinePDFs',
+  url: 'https://huggingface.co/datasets/HuggingFaceFW/fineweb-2',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'here',
+  url: 'https://huggingface.co/datasets/HuggingFaceTB/training-guide-nanotron-configs/blob/main/doc_masking/doc_masking.yaml',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“The Training Marathon”',
+  url: '#the-training-marathon',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'config',
+  url: 'https://huggingface.co/datasets/HuggingFaceTB/training-guide-nanotron-configs/blob/main/baseline_config_1B.yaml',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'MobileLLM’s',
+  url: 'https://arxiv.org/abs/2402.14905',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'here',
+  url: 'https://huggingface.co/datasets/HuggingFaceTB/training-guide-nanotron-configs/blob/main/baseline_config_1B.yaml',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'this blog',
+  url: 'https://huggingface.co/blog/designing-positional-encoding',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'labml.ai',
+  url: 'http://labml.aihttps//nn.labml.ai/transformers/alibi/index.html',
+  matches: false
+}
+🔍 Link trouvé: { text: 'document masking', url: '#document_masking', matches: false }
+🔍 Link trouvé: {
+  text: '“The Training Marathon”',
+  url: '#the-training-marathon',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'LLM architecture comparison',
+  url: 'https://sebastianraschka.com/blog/2025/the-big-llm-architecture-comparison.html',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Sebastian Raschka',
+  url: 'https://github.com/rasbt/LLMs-from-scratch/tree/main/ch04/07_moe',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Ant Group’s paper',
+  url: 'https://arxiv.org/pdf/2507.17702',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'LongCat-Flash paper',
+  url: 'https://arxiv.org/abs/2509.01322',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'ERNIE 4.5',
+  url: 'https://github.com/PaddlePaddle/ERNIE',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Lightning Attention variant',
+  url: 'https://arxiv.org/abs/2405.17381',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Yang et al., 2024',
+  url: 'https://arxiv.org/abs/2312.06635',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Mao, 2022',
+  url: 'https://arxiv.org/abs/2210.04243',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Pramanik et al., 2023',
+  url: 'https://arxiv.org/abs/2310.15719',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Yang et al., 2024',
+  url: 'https://arxiv.org/abs/2312.06635',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Kimi Delta Attention',
+  url: 'https://arxiv.org/abs/2510.26692',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“The Annotated Transformer”',
+  url: 'https://nlp.seas.harvard.edu/2018/04/03/attention.html',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“The Illustrated Transformer”',
+  url: 'https://jalammar.github.io/illustrated-transformer/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Kimi K2',
+  url: 'https://huggingface.co/moonshotai/Kimi-K2-Instruct',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'blog post',
+  url: 'https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'blog post',
+  url: 'https://srush.github.io/annotated-mamba/hard.html',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'visual guide',
+  url: 'https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“Tokenization” section',
+  url: 'https://github.com/huggingface/evaluation-guidebook/blob/main/contents/general-knowledge/tokenization.md',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“Let’s Build the GPT Tokenizer”',
+  url: 'https://www.youtube.com/watch?v=zduSFxRajkE',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“Embedding Sharing”',
+  url: '#embedding-sharing',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'blog post',
+  url: 'https://www.thonking.ai/p/what-shapes-do-matrix-multiplications',
+  matches: false
+}
+🔍 Link trouvé: { text: 'Spacy', url: 'https://spacy.io/', matches: false }
+🔍 Link trouvé: {
+  text: 'Stanza',
+  url: 'https://stanfordnlp.github.io/stanza',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'DataTrove',
+  url: 'https://github.com/huggingface/datatrove',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'test of time',
+  url: 'https://blog.iclr.cc/2025/04/14/announcing-the-test-of-time-award-winners-from-iclr-2015/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'memory- and compute-hungry beast',
+  url: 'https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=profiling_the_memory_usage',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'blog on Gradient Descent and optimizers',
+  url: 'https://www.ruder.io/optimizing-gradient-descent/',
+  matches: false
+}
+🔍 Link trouvé: { text: 'Elie', url: 'https://x.com/eliebakouch', matches: false }
+🔍 Link trouvé: {
+  text: 'Google Scholar',
+  url: 'https://scholar.google.com/citations?user=yyIoQu4AAAAJ&hl=en',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Keller Jordan',
+  url: 'https://kellerjordan.github.io/posts/muon/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Jeremy Bernstein',
+  url: 'https://jeremybernste.in/writing/deriving-muon',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'video',
+  url: 'https://www.youtube.com/watch?v=bO5nvE289ec',
+  matches: false
+}
+🔍 Link trouvé: { text: 'table', url: '#llms-landscape-pretrain', matches: false }
+🔍 Link trouvé: {
+  text: 'amazing series',
+  url: 'https://kexue.fm/archives/11260',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'DeepSeek LLM',
+  url: 'https://arxiv.org/abs/2401.02954',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Qwen2.5',
+  url: 'https://arxiv.org/abs/2412.15115',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '  ',
+  url: 'https://github.com/NVIDIA/Megatron-LM/blob/f34fa11af6f5dc65f5342f2a785c3227446cebfd/megatron/training/training.py#L158',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“The Training Marathon”',
+  url: '@the-training-marathon',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Hestness et al.',
+  url: 'https://arxiv.org/abs/1712.00409',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“Scaling Laws for Neural Language Models,”',
+  url: 'https://arxiv.org/abs/2001.08361',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Hoffman et al. (2022)',
+  url: 'https://arxiv.org/abs/2203.15556',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Sardana et al., 2025',
+  url: 'https://arxiv.org/abs/2401.00448',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'de Vries, 2023',
+  url: 'https://www.harmdevries.com/post/model-size-vs-compute-overhead/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'FineWeb and FineWeb-Edu',
+  url: 'https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'FineWeb2',
+  url: 'https://arxiv.org/abs/2506.20920',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Stack-Edu and FineMath',
+  url: 'https://arxiv.org/abs/2502.02737',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'pes2o',
+  url: 'https://huggingface.co/datasets/allenai/dolmino-mix-1124/tree/main/data/pes2o',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Wikipedia & Wikibooks',
+  url: 'https://huggingface.co/datasets/allenai/dolmino-mix-1124/tree/main/data/wiki',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'StackExchange',
+  url: 'https://huggingface.co/datasets/HuggingFaceTB/stackexchange_2025_md',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'StarCoder2 and The Stack v2',
+  url: 'https://arxiv.org/abs/2402.19173',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'The Stack v2',
+  url: 'https://huggingface.co/datasets/bigcode/the-stack-v2',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Kaggle notebooks',
+  url: 'https://huggingface.co/datasets/HuggingFaceTB/issues-kaggle-notebooks',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'GitHub issues',
+  url: 'https://huggingface.co/datasets/HuggingFaceTB/issues-kaggle-notebooks',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Stack Exchange',
+  url: 'https://huggingface.co/datasets/HuggingFaceTB/stackexchange_2025_md',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'final chapter',
+  url: '#infrastructure---the-unsung-hero',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'GPU Fryer',
+  url: 'https://github.com/huggingface/gpu-fryer',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'DCGM Diagnostics',
+  url: 'https://docs.nvidia.com/datacenter/dcgm/latest/user-guide/dcgm-diagnostics.html',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Trackio',
+  url: 'https://github.com/gradio-app/trackio',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Infrastructure chapter',
+  url: '#infrastructure---the-unsung-hero',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“Architecture Choices”',
+  url: '#architecture-choices',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“SmolLM3: Curating the Data Mixture”',
+  url: '#smollm3-curating-the-data-mixture',
+  matches: false
+}
+🔍 Link trouvé: { text: 'Weka', url: 'https://www.weka.io/', matches: false }
+🔍 Link trouvé: {
+  text: 'Infrastructure chapter',
+  url: '#infrastructure---the-unsung-hero',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '  ',
+  url: 'https://github.com/huggingface/nanotron/blob/7bc9923285a03069ebffe994379a311aceaea546/src/nanotron/data/tokenized_bytes.py#L80',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'intermediate checkpoints',
+  url: 'https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-intermediate-checkpoints',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Machine Learning Engineering Open Book, ',
+  url: 'https://github.com/stas00/ml-engineering/blob/master/training/instabilities/training-loss-patterns.md',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'BLOOM',
+  url: 'https://arxiv.org/abs/2211.05100',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Marin team',
+  url: 'https://wandb.ai/marin-community/marin/reports/Marin-32B-Work-In-Progress--VmlldzoxMzM1Mzk1NQ',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'SmolLM GitHub repository',
+  url: 'https://github.com/huggingface/smollm/tree/main/text/pretraining/smollm3',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“The Art of Data Curation.”',
+  url: '#the-art-of-data-curation',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'HELMET',
+  url: 'https://arxiv.org/abs/2410.02694',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'pretraining compass',
+  url: '#training-compass-why--what--how',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Hugging Face Hub',
+  url: 'https://huggingface.co/models',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'ARC-AGI',
+  url: 'https://arcprize.org/arc-agi',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'LiquidAI',
+  url: 'https://huggingface.co/LiquidAI/LFM2-1.2B-Tool',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'ablations section',
+  url: '#every-big-model-starts-with-a-small-ablation',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Evaluation Guidebook',
+  url: 'https://github.com/huggingface/evaluation-guidebook/blob/main/yearly_dives/2025-evaluations-for-useful-models.md',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '@simpleqa',
+  url: 'https://huggingface.co/papers/2411.04368',
+  matches: true
+}
+✅ Transformation: @simpleqa
+🔍 Link trouvé: {
+  text: '@openaiprm',
+  url: 'https://arxiv.org/abs/2305.20050',
+  matches: true
+}
+✅ Transformation: @openaiprm
+🔍 Link trouvé: { text: 'MathArena', url: 'https://matharena.ai/', matches: false }
+🔍 Link trouvé: {
+  text: 'LiveCodeBench',
+  url: 'https://livecodebench.github.io/leaderboard.html',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'SWE-bench Verified',
+  url: 'https://openai.com/index/introducing-swe-bench-verified/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '@globalmmlu',
+  url: 'https://arxiv.org/abs/2412.03304',
+  matches: true
+}
+✅ Transformation: @globalmmlu
+🔍 Link trouvé: {
+  text: '@mgsm',
+  url: '/2421384ebcac800cb22cdf0bb34c69f7',
+  matches: true
+}
+✅ Transformation: @mgsm
+🔍 Link trouvé: {
+  text: '@niah',
+  url: 'https://github.com/gkamradt/LLMTest_NeedleInAHaystack',
+  matches: true
+}
+✅ Transformation: @niah
+🔍 Link trouvé: {
+  text: '@ruler',
+  url: 'https://arxiv.org/abs/2404.06654',
+  matches: true
+}
+✅ Transformation: @ruler
+🔍 Link trouvé: {
+  text: '@helmet',
+  url: 'https://arxiv.org/abs/2410.02694',
+  matches: true
+}
+✅ Transformation: @helmet
+🔍 Link trouvé: {
+  text: 'MRCR',
+  url: 'https://huggingface.co/datasets/openai/mrcr',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'GraphWalks',
+  url: 'https://huggingface.co/datasets/openai/graphwalks',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'blog post',
+  url: 'https://nrehiew.github.io/blog/long_context/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '@ifeval',
+  url: 'https://arxiv.org/abs/2311.07911',
+  matches: true
+}
+✅ Transformation: @ifeval
+🔍 Link trouvé: {
+  text: '@ifbench',
+  url: 'https://arxiv.org/abs/2507.02833',
+  matches: true
+}
+✅ Transformation: @ifbench
+🔍 Link trouvé: {
+  text: '@multiif',
+  url: 'https://arxiv.org/abs/2410.15553',
+  matches: true
+}
+✅ Transformation: @multiif
+🔍 Link trouvé: {
+  text: '@multichallenge',
+  url: 'https://arxiv.org/abs/2501.17399',
+  matches: true
+}
+✅ Transformation: @multichallenge
+🔍 Link trouvé: { text: 'LMArena', url: 'https://lmarena.ai/', matches: false }
+🔍 Link trouvé: {
+  text: '@alpacaeval',
+  url: 'https://arxiv.org/abs/2404.04475',
+  matches: true
+}
+✅ Transformation: @alpacaeval
+🔍 Link trouvé: {
+  text: '@arenahard',
+  url: 'https://arxiv.org/abs/2406.11939',
+  matches: true
+}
+✅ Transformation: @arenahard
+🔍 Link trouvé: {
+  text: '@mixeval',
+  url: 'https://arxiv.org/abs/2406.06565',
+  matches: true
+}
+✅ Transformation: @mixeval
+🔍 Link trouvé: {
+  text: 'Berkeley Function Calling Leaderboard (BFCL)',
+  url: 'https://gorilla.cs.berkeley.edu/leaderboard.html',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '@taubench',
+  url: 'https://arxiv.org/abs/2506.07982',
+  matches: true
+}
+✅ Transformation: @taubench
+🔍 Link trouvé: {
+  text: '@gsmplus',
+  url: 'https://arxiv.org/abs/2402.19255',
+  matches: true
+}
+✅ Transformation: @gsmplus
+🔍 Link trouvé: {
+  text: '@gsm8k',
+  url: 'https://arxiv.org/abs/2110.14168',
+  matches: true
+}
+✅ Transformation: @gsm8k
+🔍 Link trouvé: {
+  text: 'blog post',
+  url: 'https://decodingml.substack.com/?utm_source=navbar&utm_medium=web',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'interactive viewer',
+  url: 'https://huggingface.co/datasets/HuggingFaceTB/post-training-benchmarks-viewer/embed/viewer',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'ablation section',
+  url: '#every-big-model-starts-with-a-small-ablation',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '@tinybenchmarks',
+  url: 'https://arxiv.org/abs/2402.14992',
+  matches: true
+}
+✅ Transformation: @tinybenchmarks
+🔍 Link trouvé: {
+  text: '@tulu3',
+  url: 'https://arxiv.org/abs/2411.15124',
+  matches: true
+}
+✅ Transformation: @tulu3
+🔍 Link trouvé: {
+  text: ' TRL ',
+  url: 'https://github.com/huggingface/trl',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: ' Axolotl ',
+  url: 'https://github.com/axolotl-ai-cloud/axolotl',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: ' OpenInstruct ',
+  url: 'https://github.com/allenai/open-instruct',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: ' Unsloth ',
+  url: 'https://github.com/unslothai/unsloth',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: ' vERL ',
+  url: 'https://github.com/volcengine/verl',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: ' Prime RL ',
+  url: 'https://github.com/PrimeIntellect-ai/prime-rl',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: ' PipelineRL ',
+  url: 'https://github.com/ServiceNow/PipelineRL',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: ' ART ',
+  url: 'https://github.com/OpenPipe/ART/tree/main',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: ' TorchForge ',
+  url: 'https://github.com/meta-pytorch/torchforge',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: ' NemoRL ',
+  url: 'https://github.com/NVIDIA-NeMo/RL',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: ' OpenRLHF ',
+  url: 'https://github.com/OpenRLHF/OpenRLHF',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '@ndetailsrlhf',
+  url: 'https://arxiv.org/abs/2403.17031',
+  matches: true
+}
+✅ Transformation: @ndetailsrlhf
+🔍 Link trouvé: {
+  text: 'algorithmic tweaks',
+  url: 'https://x.com/agarwl_/status/1981518825007853891',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '@chu2025',
+  url: 'https://huggingface.co/papers/2501.17161',
+  matches: true
+}
+✅ Transformation: @chu2025
+🔍 Link trouvé: {
+  text: '@yue2025',
+  url: 'https://huggingface.co/papers/2504.13837',
+  matches: true
+}
+✅ Transformation: @yue2025
+🔍 Link trouvé: {
+  text: '@rlhf',
+  url: 'https://huggingface.co/blog/rlhf',
+  matches: true
+}
+✅ Transformation: @rlhf
+🔍 Link trouvé: {
+  text: '@deepseekr1',
+  url: 'https://huggingface.co/papers/2501.12948',
+  matches: true
+}
+✅ Transformation: @deepseekr1
+🔍 Link trouvé: {
+  text: 'Hugging Face Hub',
+  url: 'https://huggingface.co/models?pipeline_tag=text-generation&num_parameters=min%3A0%2Cmax%3A32B&sort=trending',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'benchmaxxed by model providers.',
+  url: 'https://huggingface.co/papers/2504.20879',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'OpenHermes',
+  url: 'https://huggingface.co/datasets/teknium/OpenHermes-2.5',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'WebInstruct',
+  url: 'https://huggingface.co/datasets/TIGER-Lab/WebInstructFull',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Everyday Conversations',
+  url: '/2421384ebcac800cb22cdf0bb34c69f7',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Harmony response format',
+  url: 'https://cookbook.openai.com/articles/openai-harmony',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'OpenAI’s reasoning models',
+  url: 'https://platform.openai.com/docs/guides/reasoning/how-reasoning-works',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Llama 3’s',
+  url: 'https://huggingface.co/spaces/huggingfacejs/chat-template-playground?modelId=meta-llama%2FLlama-3.1-8B-Instruct',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'jailbroken from proprietary models',
+  url: 'https://github.com/elder-plinius/CL4R1T4S',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'code agents',
+  url: 'https://huggingface.co/learn/agents-course/en/unit2/smolagents/code_agents',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Chat Template Playground',
+  url: 'https://huggingface.co/spaces/huggingfacejs/chat-template-playground',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'try it out yourself',
+  url: 'https://huggingfacejs-chat-template-playground.hf.space/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'blog post',
+  url: 'https://thinkingmachines.ai/blog/lora/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'FSDP2',
+  url: 'https://huggingface.co/docs/accelerate/en/concept_guides/fsdp1_vs_fsdp2',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'DeepSpeed ZeRO-3',
+  url: 'https://huggingface.co/docs/accelerate/v0.11.0/en/deepspeed',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'context parallelism',
+  url: 'https://huggingface.co/docs/trl/v0.23.0/en/reducing_memory_usage#context-parallelism',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Hugging Face Hub',
+  url: 'https://huggingface.co/models?other=kernel',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'simple argument',
+  url: 'https://huggingface.co/docs/trl/kernels_hub',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'train only on assistant tokens',
+  url: 'https://huggingface.co/docs/trl/sft_trainer#train-on-assistant-messages-only',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Pack the training samples',
+  url: 'https://huggingface.co/docs/trl/v0.23.0/en/reducing_memory_usage#packing',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'application',
+  url: 'https://huggingface.co/docs/trl/v0.23.0/en/reducing_memory_usage#how-to-choose-the-maxlength-value',
+  matches: false
+}
+🔍 Link trouvé: { text: 'table', url: '#sft-datasets', matches: false }
+🔍 Link trouvé: {
+  text: 'SmolLM3-3B-Base',
+  url: 'https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Open-R1',
+  url: 'https://github.com/huggingface/open-r1',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Tulu 3’s instruction-following subset',
+  url: 'https://huggingface.co/datasets/allenai/tulu-3-sft-personas-instruction-following',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '@bfd',
+  url: 'https://huggingface.co/papers/2404.10830',
+  matches: true
+}
+✅ Transformation: @bfd
+🔍 Link trouvé: {
+  text: 'reinforcement learning',
+  url: '#going-online-and-beyond-supervised-labels',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Moonlight',
+  url: 'https://arxiv.org/abs/2502.16982',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '@ulmfit',
+  url: 'https://arxiv.org/abs/1801.06146',
+  matches: true
+}
+✅ Transformation: @ulmfit
+🔍 Link trouvé: {
+  text: '@cwm',
+  url: 'https://huggingface.co/papers/2510.02387',
+  matches: true
+}
+✅ Transformation: @cwm
+🔍 Link trouvé: {
+  text: '@phi4reasoning',
+  url: 'https://huggingface.co/papers/2504.21233',
+  matches: true
+}
+✅ Transformation: @phi4reasoning
+🔍 Link trouvé: {
+  text: ' Mixture of Thoughts ',
+  url: 'https://huggingface.co/datasets/open-r1/Mixture-of-Thoughts',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: ' Llama-Nemotron-Post-Training-Dataset: ',
+  url: 'https://huggingface.co/datasets/nvidia/Llama-Nemotron-Post-Training-Dataset',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: ' OpenThoughts3-1.2M: ',
+  url: 'https://huggingface.co/datasets/open-thoughts/OpenThoughts3-1.2M',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'UltraFeedback',
+  url: 'https://huggingface.co/datasets/openbmb/UltraFeedback',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'large-scale dataset of 250k+ LLM-generated preferences',
+  url: 'https://huggingface.co/datasets/HuggingFaceTB/smoltalk2/viewer/Preference/tulu_3_8b_pref_mix_Qwen3_32B_Qwen3_0.6B_think',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '@dpo',
+  url: 'https://arxiv.org/abs/2305.18290',
+  matches: true
+}
+✅ Transformation: @dpo
+🔍 Link trouvé: {
+  text: 'Zephyr 7B',
+  url: 'https://huggingface.co/HuggingFaceH4/zephyr-7b-beta',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '@kto',
+  url: 'https://huggingface.co/papers/2402.01306',
+  matches: true
+}
+✅ Transformation: @kto
+🔍 Link trouvé: {
+  text: '@orpo',
+  url: 'https://huggingface.co/papers/2403.07691',
+  matches: true
+}
+✅ Transformation: @orpo
+🔍 Link trouvé: {
+  text: '@apo',
+  url: 'https://huggingface.co/papers/2408.06266',
+  matches: true
+}
+✅ Transformation: @apo
+🔍 Link trouvé: {
+  text: 'Tulu 3 Preference Personas IF dataset',
+  url: 'https://huggingface.co/datasets/allenai/tulu-3-pref-personas-instruction-following',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'SFT checkpoint',
+  url: 'https://huggingface.co/HuggingFaceTB/SmolLM3-3B-checkpoints/tree/it-SFT',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'inference providers',
+  url: 'https://huggingface.co/docs/inference-providers/en/index',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '@instructgpt',
+  url: 'https://huggingface.co/papers/2203.02155',
+  matches: true
+}
+✅ Transformation: @instructgpt
+🔍 Link trouvé: {
+  text: 'verl',
+  url: 'https://github.com/volcengine/verl',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'PipelineRL',
+  url: 'https://github.com/ServiceNow/PipelineRL',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'final APO checkpoint',
+  url: 'https://huggingface.co/HuggingFaceTB/SmolLM3-3B-checkpoints/tree/it-soup-APO',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Big-Math',
+  url: 'https://huggingface.co/datasets/SynthLabsAI/Big-Math-RL-Verified',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '@dapo',
+  url: 'https://huggingface.co/papers/2503.14476',
+  matches: true
+}
+✅ Transformation: @dapo
+🔍 Link trouvé: {
+  text: 'instruct',
+  url: 'https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'reasoning',
+  url: 'https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '@qwen3',
+  url: 'https://arxiv.org/abs/2505.09388',
+  matches: true
+}
+✅ Transformation: @qwen3
+🔍 Link trouvé: {
+  text: 'Thinking Machines',
+  url: 'https://thinkingmachines.ai/blog/on-policy-distillation/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'technical write-up',
+  url: 'https://huggingface.co/spaces/HuggingFaceH4/on-policy-distillation',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '@online-offline',
+  url: 'https://huggingface.co/papers/2506.21495',
+  matches: true
+}
+✅ Transformation: @online-offline
+🔍 Link trouvé: {
+  text: '@llama3',
+  url: 'https://arxiv.org/abs/2407.21783',
+  matches: true
+}
+✅ Transformation: @llama3
+🔍 Link trouvé: {
+  text: 'reasoning parsers',
+  url: 'https://docs.vllm.ai/en/v0.10.1.1/features/reasoning_outputs.html',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'tool parsers',
+  url: 'https://docs.vllm.ai/en/v0.10.1.1/features/tool_calling.html',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'reasoning parsers',
+  url: 'https://docs.sglang.io/advanced_features/separate_reasoning.html',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'tool parsers',
+  url: 'https://docs.sglang.ai/advanced_features/tool_parser.html',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'parsers',
+  url: 'https://huggingface.co/docs/transformers/main/en/chat_response_parsing',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“The Training Marathon”',
+  url: '#the-training-marathon',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'H100',
+  url: 'https://developer.nvidia.com/blog/nvidia-hopper-architecture-in-depth/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Lindholm et al., 2008',
+  url: 'https://www.cs.cmu.edu/afs/cs/academic/class/15869-f11/www/readings/lindholm08_tesla.pdf',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'subgroups ',
+  url: 'https://github.com/gpuweb/gpuweb/pull/4368',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'waves',
+  url: 'https://microsoft.github.io/DirectX-Specs/d3d/HLSL_SM_6_6_WaveSize.html',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'simdgroups',
+  url: 'https://developer.apple.com/documentation/metal/compute_passes/creating_threads_and_threadgroups#2928931',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'different precisions',
+  url: 'https://en.wikipedia.org/wiki/Floating-point_arithmetic#Other_notable_floating-point_formats',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Ultra-Scale Playbook',
+  url: 'https://huggingface.co/spaces/nanotron/ultrascale-playbook',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'SemiAnalysis GEMM benchmark',
+  url: 'https://www.ray.so/#theme=prisma&darkMode=false&code=IyBBTUQgVklQIGltYWdlCmFsaWFzIGRydW49InN1ZG8gZG9ja2VyIHJ1biAtLXByaXZpbGVnZWQgLS1uZXR3b3JrPWhvc3QgLS1kZXZpY2U9L2Rldi9rZmQgLS1kZXZpY2U9L2Rldi9kcmkgLS1ncm91cC1hZGQgdmlkZW8gLS1jYXAtYWRkPVNZU19QVFJBQ0UgLS1zZWN1cml0eS1vcHQgc2VjY29tcD11bmNvbmZpbmVkIC0taXBjPWhvc3QgLS1zaG0tc2l6ZT0xOTI2IC0tcm0gLWl0IgpkcnVuIHNlbWlhbmFseXNpc3dvcmsvYW1kLW1hdG11bDpsYXRlc3QKRElTQUJMRV9BREROX0hJUF9MVD0wIFBZVE9SQ0hfVFVOQUJMRV9PUF9FTkFCTEVEPTEgcHl0aG9uIG1hdG11bC5weQoKI0FNRCBweXBpIG5pZ2h0bHkKZHJ1biBhbWQtbGF0ZXN0LXB5cGktbmlnaHRseS1tYXRtdWwKUFlUT1JDSF9UVU5BQkxFX09QX0VOQUJMRUQ9MSBweXRob24gbWF0bXVsLnB5CgojIEFNRCBweXBpIHN0YWJsZSBQeVRvcmNoIDIuNS4xCmRydW4gc2VtaWFuYWx5c2lzd29yay9hbWQtbGF0ZXN0LXB5cGktc3RhYmxlLW1hdG11bApQWVRPUkNIX1RVTkFCTEVfT1BfRU5BQkxFRD0xIHB5dGhvbiBtYXRtdWwucHkKCiMgTnZpZGlhIHN0YWJsZSAyNC4wOQphbGlhcyBkcnVuPSJkb2NrZXIgcnVuIC0tcm0gLWl0IC0tZ3B1cyBhbGwgLS1pcGM9aG9zdCAtLW5ldD1ob3N0IC0tc2htLXNpemU9MTkyNiIKZHJ1biBzZW1pYW5hbHlzaXN3b3JrL252aWRpYS1tYXRtdWw6bGF0ZXN0CnB5dGhvbiBtYXRtdWwucHkKCg&language=shell',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'real-world matrix multiplication shapes',
+  url: 'https://newsletter.semianalysis.com/p/mi300x-vs-h100-vs-h200-benchmark-part-1-training#general-matrix-multiply-gemm-performance',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'NVIDIA specs',
+  url: 'https://www.nvidia.com/en-us/data-center/h100/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Transformer Engine’s',
+  url: 'https://github.com/NVIDIA/TransformerEngine',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Memory Chart from NVIDIA Nsight Compute',
+  url: 'https://docs.nvidia.com/nsight-compute/ProfilingGuide/index.html#memory-chart',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'NVIDIA Nsight Compute',
+  url: 'https://docs.nvidia.com/nsight-compute/ProfilingGuide/index.html',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Horace He',
+  url: 'https://upload.wikimedia.org/wikipedia/commons/b/b2/Hausziege_04.jpg',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“Making Deep Learning Go Brrrr from First Principles,”',
+  url: 'https://horace.io/brrr_intro.html',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'NVLink',
+  url: 'https://en.wikipedia.org/wiki/NVLink',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'PCIe',
+  url: 'https://fr.wikipedia.org/wiki/PCI_Express',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'NVIDIA’s GitHub repository',
+  url: 'https://github.com/NVIDIA/nvbandwidth',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Ultra-Scale Playbook',
+  url: 'https://huggingface.co/spaces/nanotron/ultrascale-playbook',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'GB200 architecture',
+  url: 'https://newsletter.semianalysis.com/p/nvidias-blackwell-reworked-shipment',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“Troubleshooting Interconnect”',
+  url: '#troubleshooting-interconnect',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: ' GPUDirect RDMA ',
+  url: 'https://developer.nvidia.com/gpudirect',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Scalable Reliable Datagram (SRD)',
+  url: 'https://ieeexplore.ieee.org/document/9167399',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'AWS HPC Blog',
+  url: 'https://aws.amazon.com/blogs/hpc/in-the-search-for-performance-theres-more-than-one-way-to-build-a-network/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Harnessing 3200 Gbps Network: A Journey with RDMA, EFA, and libfabric',
+  url: 'https://le.qun.ch/en/blog/2024/12/25/libfabric-efa-0-intro/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'NCCL docs',
+  url: 'https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/troubleshooting.html#cumem-host-allocations',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'NCCL’s SendRecv performance test',
+  url: 'https://github.com/NVIDIA/nccl-tests/blob/master/src/sendrecv.cu',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'benchmark from NCCL Tests',
+  url: 'https://github.com/NVIDIA/nccl-tests/blob/master/src/all_reduce.cu',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Ultra-Scale Playbook’s Appendix',
+  url: 'https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=ring_allreduce',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'awsome-distributed-training repository',
+  url: 'https://github.com/aws-samples/awsome-distributed-training/tree/main/micro-benchmarks/nccl-tests',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'NVSwitch architecture presentation',
+  url: 'https://hc34.hotchips.org/assets/program/conference/day2/Network%20and%20Switches/NVSwitch%20HotChips%202022%20r5.pdf',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'all-to-all performance',
+  url: 'https://github.com/NVIDIA/nccl-tests/blob/master/src/alltoall.cu',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'published benchmarks',
+  url: 'https://juser.fz-juelich.de/record/1019178/files/02-NCCL_NVSHMEM.pdf',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'SymmetricMemory API',
+  url: 'https://dev-discuss.pytorch.org/t/pytorch-symmetricmemory-harnessing-nvlink-programmability-with-ease/2798',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Li et al. (2022)',
+  url: 'https://www.sciencedirect.com/science/article/pii/S2772485922000618',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Elastic Fabric Adapter (EFA)',
+  url: 'https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/efa.html',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'AWS’s P5 specs',
+  url: 'https://aws.amazon.com/ec2/instance-types/p5/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'GitHub issue #1272',
+  url: 'https://github.com/NVIDIA/nccl/issues/1272',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'GitHub issue #1017',
+  url: 'https://github.com/NVIDIA/nccl/issues/1017#issuecomment-1751385723',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Enterprise Support Portal',
+  url: 'https://enterprise-support.nvidia.com/s/article/understanding-numa-node-for-performance-benchmarks#Mapping-between-PCI-device-driver-port-and-NUMA',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Instance Topology API',
+  url: 'https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/how-ec2-instance-topology-works.html',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'AWS EFA cheatsheet',
+  url: 'https://github.com/aws-samples/awsome-distributed-training/blob/main/1.architectures/efa-cheatsheet.md',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'GPUDirect',
+  url: 'https://developer.nvidia.com/gpudirect',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'NVIDIA GPUDirect Storage Benchmarking and Configuration Guide',
+  url: 'https://docs.nvidia.com/gpudirect-storage/configuration-guide/index.html',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Amazon Elastic Block Store (EBS)',
+  url: 'https://aws.amazon.com/ebs/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Ultra-Scale Playbook',
+  url: 'https://huggingface.co/spaces/nanotron/ultrascale-playbook',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'GPU Fryer',
+  url: 'https://github.com/huggingface/gpu-fryer',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'NVIDIA’s DCGM Diagnostics',
+  url: 'https://docs.nvidia.com/datacenter/dcgm/latest/user-guide/dcgm-diagnostics.html',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: ' NVIDIA DCGM Diagnostics documentation ',
+  url: 'https://docs.nvidia.com/datacenter/dcgm/latest/user-guide/dcgm-diagnostics.html#run-levels-and-tests',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '“The Training Marathon,”',
+  url: '#the-training-marathon',
+  matches: false
+}
+🔍 Link trouvé: { text: 'Prometheus', url: 'https://prometheus.io/', matches: false }
+🔍 Link trouvé: { text: 'DCGM', url: 'https://github.com/NVIDIA/DCGM', matches: false }
+🔍 Link trouvé: { text: 'Grafana', url: 'https://grafana.com/', matches: false }
+🔍 Link trouvé: {
+  text: 'example setup guide in the awsome-distributed-training repo',
+  url: 'https://github.com/aws-samples/awsome-distributed-training/tree/3ae961d022399021cc4053c3ba19b182ca6b8dc8/4.validation_and_observability/4.prometheus-grafana',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'analysis on power throttling',
+  url: 'https://www.thonking.ai/p/strangely-matrix-multiplications',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'LightEval',
+  url: 'https://github.com/huggingface/lighteval',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Trackio',
+  url: 'https://github.com/gradio-app/trackio',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Amdahl’s law',
+  url: 'https://en.wikipedia.org/wiki/Amdahl%27s_law',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'can’t be parallelized away',
+  url: 'https://acenet-arc.github.io/ACENET_Summer_School_General/05-performance/index.html',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Ultra-Scale Playbook’s approach to finding optimal training configurations',
+  url: 'https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=step_1%3A_fitting_a_training_step_in_memory',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Ultra-Scale Playbook',
+  url: 'https://huggingface.co/spaces/nanotron/ultrascale-playbook',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Nanotron’s ',
+  url: 'https://huggingface.co/spaces/nanotron/predict_memory',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '  ',
+  url: 'https://huggingface.co/spaces/nanotron/predict_memory',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: ' tool',
+  url: 'https://huggingface.co/spaces/nanotron/predict_memory',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: ' stage1_8T.yaml ',
+  url: 'https://github.com/huggingface/smollm/blob/main/text/pretraining/smollm3/stage1_8T.yaml',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Guilherme',
+  url: 'https://huggingface.co/guipenedo',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Hugo',
+  url: 'https://huggingface.co/hlarcher',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Mario',
+  url: 'https://huggingface.co/mariolr',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Abubakar',
+  url: 'https://huggingface.co/abidlabs',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Llama 3',
+  url: 'https://huggingface.co/papers/2407.21783',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'OLMo 2',
+  url: 'https://huggingface.co/papers/2501.00656',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'MobileLLM',
+  url: 'https://huggingface.co/papers/2402.14905',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'DeepSeek-V2',
+  url: 'https://huggingface.co/papers/2405.04434',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'DeepSeek-V3',
+  url: 'https://huggingface.co/papers/2412.19437',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Scaling Laws of Efficient MoEs',
+  url: 'https://huggingface.co/papers/2507.17702',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'MiniMax-01,',
+  url: 'https://huggingface.co/papers/2501.08313',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Mamba2',
+  url: 'https://huggingface.co/papers/2405.21060',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Muon is Scalable for LLM Training',
+  url: 'https://huggingface.co/papers/2502.16982',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Fantastic Pretraining Optimizers',
+  url: 'https://huggingface.co/papers/2509.02046',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Large Batch Training',
+  url: 'https://arxiv.org/abs/1812.06162',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'DeepSeek LLM',
+  url: 'https://arxiv.org/abs/2401.02954',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'FineWeb & FineWeb-Edu',
+  url: 'https://huggingface.co/papers/2406.17557',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'FineWeb2',
+  url: 'https://huggingface.co/papers/2506.20920',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'DCLM',
+  url: 'https://huggingface.co/papers/2406.11794',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'The Stack v2',
+  url: 'https://huggingface.co/papers/2402.19173',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'To Code or Not to Code',
+  url: 'https://huggingface.co/papers/2408.10914',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'DeepSeekMath',
+  url: 'https://huggingface.co/papers/2402.03300',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'FineMath',
+  url: 'https://huggingface.co/papers/2502.02737',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'MegaMath',
+  url: 'https://huggingface.co/papers/2504.02807',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'SmolLM2',
+  url: 'https://huggingface.co/papers/2502.02737',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Does Your Data Spark Joy?',
+  url: 'https://huggingface.co/papers/2406.03476',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Kaplan',
+  url: 'https://huggingface.co/papers/2001.08361',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Chinchilla',
+  url: 'https://huggingface.co/papers/2203.15556',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Scaling Data-Constrained Language Models',
+  url: 'https://huggingface.co/papers/2305.16264',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'InstructGPT',
+  url: 'https://huggingface.co/papers/2203.02155',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Llama 2',
+  url: 'https://huggingface.co/papers/2307.09288',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: '3',
+  url: 'https://huggingface.co/papers/2407.21783',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Part I',
+  url: 'https://huggingface.co/papers/2307.04964',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'II',
+  url: 'https://huggingface.co/papers/2401.06080',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Direct Preference Optimization',
+  url: 'https://huggingface.co/papers/2305.18290',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'DeepSeek-R1',
+  url: 'https://huggingface.co/papers/2501.12948',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Understanding R1-Zero-Like Training (Dr. GRPO)',
+  url: 'https://huggingface.co/papers/2503.20783',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'DAPO',
+  url: 'https://huggingface.co/papers/2503.14476',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'ScaleRL:',
+  url: 'https://huggingface.co/papers/2510.13786',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'LoRA Without Regret',
+  url: 'https://thinkingmachines.ai/blog/lora/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Command A',
+  url: 'https://huggingface.co/papers/2504.00698',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Ultra-Scale Playbook',
+  url: 'https://huggingface.co/spaces/nanotron/ultrascale-playbook',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Jax scaling book',
+  url: 'https://jax-ml.github.io/scaling-book/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Modal GPU Glossary',
+  url: 'https://modal.com/gpu-glossary/readme',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Megatron-LM',
+  url: 'https://github.com/NVIDIA/Megatron-LM',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'DeepSpeed',
+  url: 'https://github.com/deepspeedai/DeepSpeed',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'TorchTitan',
+  url: 'https://github.com/pytorch/torchtitan',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Nanotron',
+  url: 'https://github.com/huggingface/nanotron/',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'NanoChat',
+  url: 'https://github.com/karpathy/nanochat',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'TRL',
+  url: 'https://github.com/huggingface/trl',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'LLM Evaluation Guidebook',
+  url: 'https://github.com/huggingface/evaluation-guidebook',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'OLMES',
+  url: 'https://huggingface.co/papers/2406.08446',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'FineTasks',
+  url: 'https://huggingface.co/spaces/HuggingFaceFW/blogpost-fine-tasks',
+  matches: false
+}
+🔍 Link trouvé: {
+  text: 'Lessons from the Trenches',
+  url: 'https://huggingface.co/papers/2405.14782',
+  matches: false
+}
+21:57:02 [astro-mermaid] Remark transformed mermaid block #1 in /Users/lezewei/project/study/blog/smol-training/source/app/src/content/article.mdx
+21:57:02 [astro-mermaid] Remark transformed mermaid block #2 in /Users/lezewei/project/study/blog/smol-training/source/app/src/content/article.mdx
+21:57:02 [astro-mermaid] Remark transformed mermaid block #3 in /Users/lezewei/project/study/blog/smol-training/source/app/src/content/article.mdx
+21:57:02 [astro-mermaid] Remark transformed mermaid block #4 in /Users/lezewei/project/study/blog/smol-training/source/app/src/content/article.mdx
+21:57:02 [astro-mermaid] Remark total mermaid blocks transformed: 4
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character " " (160) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character " " (160) [unknownSymbol]
+21:57:14 [vite] ✓ built in 13.25s
+21:57:14 [build] ✓ Completed in 13.27s.
+
+ building client (vite) 
+21:57:14 [vite] transforming...
+21:57:17 [vite] ✓ 2151 modules transformed.
+21:57:17 [vite] rendering chunks...
+21:57:17 [vite] computing gzip size...
+21:57:17 [vite] dist/_astro/trackio.Cv4uD2MN.css                                        20.71 kB │ gzip:   3.67 kB
+21:57:17 [vite] dist/_astro/channel.BTVgF2Fc.js                                          0.12 kB │ gzip:   0.13 kB
+21:57:17 [vite] dist/_astro/init.Gi6I4Gst.js                                             0.15 kB │ gzip:   0.13 kB
+21:57:17 [vite] dist/_astro/chunk-2Q5K7J3B.BrPF2Gr1.js                                   0.20 kB │ gzip:   0.16 kB
+21:57:17 [vite] dist/_astro/chunk-JWPE2WC7.CQJ2no-0.js                                   0.23 kB │ gzip:   0.17 kB
+21:57:17 [vite] dist/_astro/_commonjsHelpers.Cpj98o6Y.js                                 0.24 kB │ gzip:   0.18 kB
+21:57:17 [vite] dist/_astro/mermaid-zoom.BOvgh_Y0.js                                     0.24 kB │ gzip:   0.19 kB
+21:57:17 [vite] dist/_astro/chunk-XXDRQBXY.DZnCwnOy.js                                   0.27 kB │ gzip:   0.23 kB
+21:57:17 [vite] dist/_astro/chunk-5VM5RSS4.DOeo_vSY.js                                   0.37 kB │ gzip:   0.27 kB
+21:57:17 [vite] dist/_astro/chunk-POPQ4Y6H.B_ucl27w.js                                   0.51 kB │ gzip:   0.36 kB
+21:57:17 [vite] dist/_astro/stateDiagram-v2-MP3YSRHH.CKU6pYEz.js                         0.51 kB │ gzip:   0.34 kB
+21:57:17 [vite] dist/_astro/classDiagram-ZZMXUADV.C0hz4qm3.js                            0.55 kB │ gzip:   0.36 kB
+21:57:17 [vite] dist/_astro/classDiagram-v2-VYDZK3BY.C0hz4qm3.js                         0.55 kB │ gzip:   0.36 kB
+21:57:17 [vite] dist/_astro/swimlanesDiagram-VR7AAH4N.D_t1sGuL.js                        0.63 kB │ gzip:   0.41 kB
+21:57:17 [vite] dist/_astro/infoDiagram-27XIBGKW.Btr69kuc.js                             0.66 kB │ gzip:   0.45 kB
+21:57:17 [vite] dist/_astro/client.CWY0IrnN.js                                           0.70 kB │ gzip:   0.46 kB
+21:57:17 [vite] dist/_astro/hoisted.lumzFcx0.js                                          0.72 kB │ gzip:   0.46 kB
+21:57:17 [vite] dist/_astro/preload-helper.CLcXU_4U.js                                   0.99 kB │ gzip:   0.60 kB
+21:57:17 [vite] dist/_astro/sizeCapture-INFHLROL.CubcNizX.js                             1.02 kB │ gzip:   0.57 kB
+21:57:17 [vite] dist/_astro/store.C_tKhWh9.js                                            1.13 kB │ gzip:   0.61 kB
+21:57:17 [vite] dist/_astro/ordinal.BYWQX77i.js                                          1.19 kB │ gzip:   0.57 kB
+21:57:17 [vite] dist/_astro/railroadDiagram-O6MQD6OU.CGaorn5m.js                         1.69 kB │ gzip:   0.80 kB
+21:57:17 [vite] dist/_astro/abnfDiagram-VCTEODGH.BILteUAg.js                             1.89 kB │ gzip:   0.93 kB
+21:57:17 [vite] dist/_astro/chunk-F27PBJKO.DBsrckoo.js                                   1.90 kB │ gzip:   0.84 kB
+21:57:17 [vite] dist/_astro/pegDiagram-XKGWAZYB.DQ0W5Ca0.js                              2.04 kB │ gzip:   0.96 kB
+21:57:17 [vite] dist/_astro/ebnfDiagram-PWID7BFC.Cnxs8pFv.js                             2.09 kB │ gzip:   0.92 kB
+21:57:17 [vite] dist/_astro/nice.BNqt3TJu.js                                             2.85 kB │ gzip:   1.20 kB
+21:57:17 [vite] dist/_astro/hoisted.lfZRhYYF.js                                          2.85 kB │ gzip:   1.37 kB
+21:57:17 [vite] dist/_astro/arc.BBTErDA9.js                                              3.47 kB │ gzip:   1.51 kB
+21:57:17 [vite] dist/_astro/diagram-Z3DM3KII.q9rmUUB7.js                                 4.29 kB │ gzip:   1.88 kB
+21:57:17 [vite] dist/_astro/hoisted.Dcn2v7xO.js                                          4.38 kB │ gzip:   1.64 kB
+21:57:17 [vite] dist/_astro/defaultLocale.DX6XiGOO.js                                    4.69 kB │ gzip:   2.18 kB
+21:57:17 [vite] dist/_astro/page.YrW_WvkC.js                                             5.50 kB │ gzip:   1.96 kB
+21:57:17 [vite] dist/_astro/linear.Bsi9xz3S.js                                           5.67 kB │ gzip:   2.31 kB
+21:57:17 [vite] dist/_astro/diagram-UQ7AKVKN.ChcE4xBR.js                                 6.16 kB │ gzip:   2.66 kB
+21:57:17 [vite] dist/_astro/pieDiagram-E7YTZNPT.DjQwV4aA.js                              6.39 kB │ gzip:   2.67 kB
+21:57:17 [vite] dist/_astro/diagram-S7CK7UJ4.DDvZLGmy.js                                 8.24 kB │ gzip:   3.72 kB
+21:57:17 [vite] dist/_astro/Sidenote.astro_astro_type_script_index_0_lang.D54tyajf.js    9.14 kB │ gzip:   3.41 kB
+21:57:17 [vite] dist/_astro/cynefinDiagram-5FMLGOSQ.B6baw0Ck.js                         10.16 kB │ gzip:   3.67 kB
+21:57:17 [vite] dist/_astro/stateDiagram-D77RDMKH.Blvu-_ZD.js                           10.45 kB │ gzip:   3.66 kB
+21:57:17 [vite] dist/_astro/dagre-GXQ25YYZ.kDPEd7B-.js                                  10.79 kB │ gzip:   4.08 kB
+21:57:17 [vite] dist/_astro/diagram-VSXAHHWV.Cj8RgFp6.js                                10.83 kB │ gzip:   4.19 kB
+21:57:17 [vite] dist/_astro/chunk-SVP7TREG.Hr_2TkNd.js                                  15.73 kB │ gzip:   4.40 kB
+21:57:17 [vite] dist/_astro/diagram-VX7I27RA.DbhnH164.js                                16.04 kB │ gzip:   5.74 kB
+21:57:17 [vite] dist/_astro/ishikawaDiagram-5VMMS53U.NW_JrgiR.js                        17.54 kB │ gzip:   6.69 kB
+21:57:17 [vite] dist/_astro/kanban-definition-UXKFOSKX.CY6EDxlW.js                      20.37 kB │ gzip:   7.25 kB
+21:57:17 [vite] dist/_astro/mindmap-definition-YA3MSWOX.DLF5J-K6.js                     23.25 kB │ gzip:   7.86 kB
+21:57:17 [vite] dist/_astro/sankeyDiagram-P5KCCOFB.Bdw5LN28.js                          23.29 kB │ gzip:   8.59 kB
+21:57:17 [vite] dist/_astro/journeyDiagram-3NMN7TZE.BnUhK-TI.js                         23.67 kB │ gzip:   8.40 kB
+21:57:17 [vite] dist/_astro/wardleyDiagram-VM6X3IG4.Cb6Yx5XC.js                         25.58 kB │ gzip:   6.84 kB
+21:57:17 [vite] dist/_astro/gitGraphDiagram-WWUBYQGX.C3SxA1F3.js                        29.50 kB │ gzip:   8.74 kB
+21:57:17 [vite] dist/_astro/erDiagram-RLTQ6QDP.B5eMLllp.js                              30.87 kB │ gzip:  10.63 kB
+21:57:17 [vite] dist/_astro/timeline-definition-24CTP7MA.Bj1iULZT.js                    30.92 kB │ gzip:  10.20 kB
+21:57:17 [vite] dist/_astro/requirementDiagram-BXWQKSXE.R-a-r_RE.js                     31.07 kB │ gzip:   9.78 kB
+21:57:17 [vite] dist/_astro/quadrantDiagram-AXDQQJYC.BE0Vucsb.js                        34.09 kB │ gzip:  10.01 kB
+21:57:17 [vite] dist/_astro/layout.DBvHQCh7.js                                          35.43 kB │ gzip:  12.74 kB
+21:57:17 [vite] dist/_astro/chunk-IMKFNOWR.uHni4_Ve.js                                  38.09 kB │ gzip:  12.50 kB
+21:57:17 [vite] dist/_astro/transform.D1BtwV8y.js                                       40.94 kB │ gzip:  13.92 kB
+21:57:17 [vite] dist/_astro/blockDiagram-I7D4REHJ.B9MjSE1U.js                           41.86 kB │ gzip:  13.63 kB
+21:57:17 [vite] dist/_astro/vennDiagram-4TSXK5OY.C5z81eP-.js                            42.04 kB │ gzip:  15.75 kB
+21:57:17 [vite] dist/_astro/xychartDiagram-S5SC5T6Z.DXG_hjmM.js                         44.56 kB │ gzip:  12.54 kB
+21:57:17 [vite] dist/_astro/chunk-TICWLB2K._4UQXhH3.js                                  49.21 kB │ gzip:  15.75 kB
+21:57:17 [vite] dist/_astro/flowDiagram-HODETNUW.C_UlBYCz.js                            61.87 kB │ gzip:  19.88 kB
+21:57:17 [vite] dist/_astro/c4Diagram-7LVT6UL2.BHXmLiz8.js                              65.55 kB │ gzip:  18.83 kB
+21:57:17 [vite] dist/_astro/ganttDiagram-EL5Y4UJY.BUhTnW7A.js                           66.75 kB │ gzip:  22.47 kB
+21:57:17 [vite] dist/_astro/cose-bilkent-JH36ORCC.CFKPju6p.js                           81.62 kB │ gzip:  22.48 kB
+21:57:17 [vite] dist/_astro/Trackio.DxivcJb_.js                                         89.89 kB │ gzip:  31.31 kB
+21:57:17 [vite] dist/_astro/jszip.min.CS7Z_jG8.js                                       97.43 kB │ gzip:  30.28 kB
+21:57:17 [vite] dist/_astro/swimlanes-42K2YHIH.BvztlOR3.js                             115.88 kB │ gzip:  42.57 kB
+21:57:17 [vite] dist/_astro/sequenceDiagram-WJ2MYXX4.CP-Gsxfd.js                       117.02 kB │ gzip:  31.15 kB
+21:57:17 [vite] dist/_astro/architectureDiagram-5GKGNRK7.FRTekziy.js                   151.70 kB │ gzip:  43.13 kB
+21:57:17 [vite] dist/_astro/snapdom.ByUp23OK.js                                        162.04 kB │ gzip:  53.26 kB
+21:57:17 [vite] dist/_astro/html2canvas.esm.BfxBtG_O.js                                201.41 kB │ gzip:  48.03 kB
+21:57:17 [vite] dist/_astro/katex.HP8lGamR.js                                          258.47 kB │ gzip:  77.57 kB
+21:57:17 [vite] dist/_astro/cytoscape.esm.DHM8Q7BN.js                                  443.77 kB │ gzip: 142.39 kB
+21:57:17 [vite] dist/_astro/mermaid.core.BEiXdn5A.js                                   641.82 kB │ gzip: 155.05 kB
+21:57:17 [vite] dist/_astro/cynefin-OW5HDTMX.B0Z1rjWz.js                               687.76 kB │ gzip: 152.07 kB
+21:57:17 [WARN] [vite] 
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+21:57:17 [vite] ✓ built in 3.39s
+
+ generating static routes 
+21:57:17 ▶ src/pages/dataviz.astro
+21:57:17   └─ /dataviz/index.html (+55ms)
+21:57:17 ▶ src/pages/index.astro
+21:57:17   └─ /index.html (+90ms)
+21:57:18 ▶ src/pages/trackio.astro
+21:57:18   └─ /trackio/index.htmlReactive statement triggered, jitterTrigger value: 0
+ (+3ms)
+21:57:18 ✓ Completed in 268ms.
+
+ generating optimized images 
+21:57:19   ▶ /_astro/image_27c1384e-bcac-807c-807b-fac08be1d884.C286JbWA_AmD26.webp (before: 654kB, after: 88kB) (+910ms) (1/21)
+21:57:19   ▶ /_astro/image_2931384e-bcac-80c4-ab02-f22c53e6fdee.dhphF60f_Z1Pe0ji.webp (before: 170kB, after: 30kB) (+30ms) (2/21)
+21:57:19   ▶ /_astro/image_2931384e-bcac-8062-bc11-d1ee3706d996.D6CeK-45_10lKF5.webp (before: 1924kB, after: 80kB) (+251ms) (3/21)
+21:57:19   ▶ /_astro/Capture_decran_2025-10-20_a_13_25_47_2921384e-bcac-8087-83e5-fa7a40c1f342.asYkEXKU_1s8wtB.webp (before: 168kB, after: 49kB) (+31ms) (4/21)
+21:57:19   ▶ /_astro/Capture_decran_2025-10-20_a_13_26_08_2921384e-bcac-80b5-ac36-fb73d6374208.D-BBIjb7_Zs7nQa.webp (before: 417kB, after: 111kB) (+62ms) (5/21)
+21:57:19   ▶ /_astro/75ae60ff-50be-48e1-aad2-a8fc56120d3d_2921384e-bcac-80c2-984b-d81404e4bb7c.8nxVv-OC_25NHa.webp (before: 207kB, after: 30kB) (+27ms) (6/21)
+21:57:19   ▶ /_astro/Capture_decran_2025-10-21_a_11_11_38_2931384e-bcac-8008-ad8d-d5ab0c539d3a.ZeQ4Aq4n_Z3EACl.webp (before: 312kB, after: 64kB) (+44ms) (7/21)
+21:57:19   ▶ /_astro/Capture_decran_2025-10-21_a_15_34_27_2931384e-bcac-8066-834b-c485ae8d1fa5.Cix986wE_ZLIDik.webp (before: 140kB, after: 43kB) (+29ms) (8/21)
+21:57:19   ▶ /_astro/image_2471384e-bcac-8059-84a4-d4ce5ae3847c.2mT4C1Dr_1a8Vp7.webp (before: 255kB, after: 77kB) (+86ms) (9/21)
+21:57:19   ▶ /_astro/Capture_decran_2025-10-27_a_22_10_05_2991384e-bcac-802a-a6e6-dab0f9f410ec.CKOEFjcT_b6hhb.webp (before: 960kB, after: 59kB) (+45ms) (10/21)
+21:57:19   ▶ /_astro/Screenshot_2025-10-24_at_09_37_24_2961384e-bcac-8055-9e8e-ffbd3a1aa368.C0macOQ5_Z1iRGEy.webp (before: 745kB, after: 26kB) (+38ms) (11/21)
+21:57:19   ▶ /_astro/Screenshot_2025-09-26_at_22_36_40_27a1384e-bcac-8063-94e0-f1c689e7d9b9.vtcw08KN_wObJG.webp (before: 85kB, after: 22kB) (+17ms) (12/21)
+21:57:19   ▶ /_astro/GtU8DnoWsAAruEG_28e1384e-bcac-8051-8122-ed6cacf8f632.AUNwy38i_Z1Unntg.webp (before: 104kB, after: 15kB) (+13ms) (13/21)
+21:57:19   ▶ /_astro/Screenshot_2025-10-01_at_11_31_19_28e1384e-bcac-8005-8c5e-f0af3bf70372.BuE895O6_Z1ti3sF.webp (before: 137kB, after: 25kB) (+20ms) (14/21)
+21:57:19   ▶ /_astro/Screenshot_2025-10-30_at_13_02_36_29c1384e-bcac-80d6-a72d-ff34bc221b60.CWwwpiVT_1VFoBG.webp (before: 160kB, after: 30kB) (+68ms) (15/21)
+21:57:19   ▶ /_astro/image_2881384e-bcac-80d6-84fe-d705cb1eae0a.DYXAJOyz_1iK6k0.webp (before: 598kB, after: 44kB) (+111ms) (16/21)
+21:57:19   ▶ /_astro/image_2881384e-bcac-801d-9f3d-c875181b9dd1.CtKK2FLa_Z2eUI4H.webp (before: 133kB, after: 39kB) (+26ms) (17/21)
+21:57:20   ▶ /_astro/image_2881384e-bcac-80ed-9bdf-c077977d77b8.Dy-eh-v2_Z252kaI.webp (before: 51kB, after: 37kB) (+25ms) (18/21)
+21:57:20   ▶ /_astro/lstopo_29c1384e-bcac-80c9-9715-cbfe9e73d86b.DCCvpO8Q_ZPxGsS.webp (before: 1250kB, after: 78kB) (+119ms) (19/21)
+21:57:20   ▶ /_astro/image_2891384e-bcac-80e2-9cc5-c2c46c7ab39b.B9LkpQ-__ZcdxHc.webp (before: 168kB, after: 48kB) (+66ms) (20/21)
+21:57:20   ▶ /_astro/image_27d1384e-bcac-80b1-9ffb-ec29d0021ccc.D54wWyJ9_2jmnNO.webp (before: 433kB, after: 50kB) (+105ms) (21/21)
+21:57:20 ✓ Completed in 2.12s.
+
+[33mastro-compressor:[0m brotli compression disabled, skipping...
+[32mastro-compressor:[0m finished gzip of 91 files in 357ms
+[32mastro-compressor:[0m Compression finished
+
+21:57:20 [build] 3 page(s) built in 19.65s
+21:57:20 [build] Complete!

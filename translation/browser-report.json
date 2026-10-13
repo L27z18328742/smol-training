@@ -1,0 +1,12 @@
+{
+  "errors": [],
+  "failedLocalRequests": [],
+  "brokenImages": [],
+  "chapterNavigation": "#every-big-model-starts-with-a-small-ablation",
+  "darkTheme": "dark",
+  "mobile": {
+    "width": 390,
+    "scrollWidth": 390
+  },
+  "renderedInteractiveSvgs": 245
+}

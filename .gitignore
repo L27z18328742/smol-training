@@ -1,0 +1,14 @@
+.venv/
+source/app/node_modules/
+source/app/.astro/
+source/app/dist/
+__pycache__/
+.DS_Store
+node_modules/
+*.pyc
+.ruff_cache/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+!.env.sample

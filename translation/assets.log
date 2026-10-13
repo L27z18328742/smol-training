@@ -1,0 +1,15 @@
+LFS assets: 222
+20 source/app/src/content/assets/image/Screenshot_2025-10-30_at_13_02_36_29c1384e-bcac-80d6-a72d-ff34bc221b60.png
+40 source/app/src/content/assets/image/Capture_decran_2025-10-29_a_14_47_17_2941384e-bcac-803c-8ba2-dbae2c39e8b5.png
+60 source/app/src/content/assets/image/Screenshot_2025-10-30_at_15_23_25_2941384e-bcac-80d2-b3ea-ff509ccf857d.png
+80 source/app/src/content/assets/image/Screenshot_2025-10-16_at_21_20_31_28e1384e-bcac-8059-83b0-c6e19a90f49c.png
+100 source/app/src/content/assets/image/image_27c1384e-bcac-807c-807b-fac08be1d884.png
+120 source/app/src/content/assets/data/nccl_sendrecv_p2p_comparison.csv
+140 source/app/src/content/assets/data/weka_drop_0404.csv
+141 ERROR source/app/src/content/assets/data/against_baselines copy.csv URL can't contain control characters. '/spaces/HuggingFaceTB/smol-training-playbook/resolve/main/app/src/content/assets/data/against_baselines copy.csv' (found at least ' ')
+160 source/app/src/content/assets/data/all_ratings_luis.csv
+180 source/app/src/content/assets/data/no-wd_evals.csv
+200 source/app/src/content/assets/data/nccl-all-reduce-throttling-bandwidth.json
+207 ERROR source/app/src/content/assets/data/against_baselines_deduplicated copy.csv URL can't contain control characters. '/spaces/HuggingFaceTB/smol-training-playbook/resolve/main/app/src/content/assets/data/against_baselines_deduplicated copy.csv' (found at least ' ')
+220 source/app/src/content/assets/data/aggregated-loss-data.csv
+Complete

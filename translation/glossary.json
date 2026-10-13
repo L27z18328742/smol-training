@@ -1,0 +1,15 @@
+{
+  "large language models": "大语言模型", "large language model": "大语言模型", "LLMs": "大语言模型", "LLM": "大语言模型",
+  "pretrained models": "预训练模型", "pretrained model": "预训练模型", "pretraining": "预训练", "pre-training": "预训练", "post-training": "后训练", "mid-training": "中期训练",
+  "continued pretraining": "持续预训练", "ablation studies": "消融实验", "ablation study": "消融实验", "ablations": "消融实验", "ablation": "消融实验",
+  "learning rate": "学习率", "batch size": "批量大小", "training run": "训练运行", "training runs": "训练运行", "loss spikes": "损失尖峰", "loss spike": "损失尖峰", "loss function": "损失函数", "loss curves": "损失曲线", "loss curve": "损失曲线",
+  "data mixtures": "数据混合配比", "data mixture": "数据混合配比", "data curation": "数据整理", "data mixing": "数据混合", "data recipe": "数据配方", "training recipe": "训练配方", "data recipes": "数据配方", "training recipes": "训练配方",
+  "tokenizers": "分词器", "tokenizer": "分词器", "tokens": "token", "token": "token", "throughput": "吞吐量", "tensor parallelism": "张量并行", "pipeline parallelism": "流水线并行", "data parallelism": "数据并行", "context parallelism": "上下文并行", "expert parallelism": "专家并行", "sequence parallelism": "序列并行",
+  "checkpointing": "检查点保存", "checkpoints": "检查点", "checkpoint": "检查点", "hyperparameters": "超参数", "hyperparameter": "超参数", "scaling laws": "缩放定律", "scaling law": "缩放定律",
+  "fine-tuning": "微调", "finetuning": "微调", "fine-tune": "微调", "fine-tuned": "经过微调的", "supervised fine-tuning": "监督微调", "reinforcement learning": "强化学习", "preference optimization": "偏好优化", "model merging": "模型合并",
+  "base models": "基座模型", "base model": "基座模型", "foundation models": "基础模型", "foundation model": "基础模型", "reasoning models": "推理模型", "reasoning model": "推理模型", "hybrid reasoning": "混合推理", "reasoning": "推理", "inference": "推理", "inference-time": "推理时",
+  "attention heads": "注意力头", "attention head": "注意力头", "attention": "注意力", "embeddings": "嵌入", "embedding": "嵌入", "weight decay": "权重衰减", "warmup": "预热", "cooldown": "冷却", "gradient clipping": "梯度裁剪", "gradient accumulation": "梯度累积", "gradient norm": "梯度范数", "dataloader": "数据加载器", "dataloaders": "数据加载器",
+  "reward hacking": "奖励投机", "on-policy": "同策略", "off-policy": "异策略", "rollouts": "采样轨迹", "rollout": "采样轨迹", "chat template": "聊天模板", "chat templates": "聊天模板", "instruction following": "指令遵循", "instruction-following": "指令遵循", "chain-of-thought": "思维链", "chain of thought": "思维链",
+  "mixture of experts": "混合专家", "mixture-of-experts": "混合专家", "dense models": "稠密模型", "dense model": "稠密模型", "sparse models": "稀疏模型", "sparse model": "稀疏模型", "compute budget": "计算预算", "compute": "计算资源", "compute-bound": "计算受限", "memory-bound": "内存带宽受限", "roofline model": "屋顶线模型", "Roofline": "Roofline",
+  "derisking": "风险排查", "derisked": "经过风险验证的", "Rules of Engagement": "实践准则", "Hugging Face": "Hugging Face", "SmolLM3": "SmolLM3", "FineWeb": "FineWeb", "FineWeb2": "FineWeb2", "FineWeb-Edu": "FineWeb-Edu", "FineMath": "FineMath", "FineWeb2-HQ": "FineWeb2-HQ"
+}

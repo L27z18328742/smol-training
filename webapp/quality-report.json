@@ -1,0 +1,29 @@
+{
+  "source_commit": "179c71bb4a1c10c8be98768dea04fbc2cfc8e9f9",
+  "source_url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
+  "language": "zh-CN",
+  "translation_method": "AI agents, full paragraph-by-paragraph translation; automated structural verification and targeted terminology review",
+  "source_units": 2550,
+  "translated_units": 2550,
+  "nonprose_doctype_units": 3,
+  "missing_units": 0,
+  "counts": {
+    "paragraphs": 1150,
+    "tables": 27,
+    "table_rows": 196,
+    "images": 21,
+    "interactive_embeds": 91,
+    "external_iframes": 7,
+    "code_blocks": 49,
+    "formulas": 157,
+    "bibliography_entries": 144,
+    "sidenotes": 72
+  },
+  "errors": [],
+  "limitations": [
+    "Code, formula notation, bibliographic entries and text inside raster images remain in their original form.",
+    "External embedded tools retain original interfaces and require network access.",
+    "Interactive chart labels are translated through a local display dictionary; model/data identifiers are retained.",
+    "This is an unofficial AI-assisted translation, not author-reviewed."
+  ]
+}

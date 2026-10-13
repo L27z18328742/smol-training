@@ -1,0 +1,42 @@
+[
+  {
+    "id": "introduction",
+    "title": "导论"
+  },
+  {
+    "id": "training-compass-why--what--how",
+    "title": "训练指南针：为什么 → 训练什么 → 如何训练"
+  },
+  {
+    "id": "every-big-model-starts-with-a-small-ablation",
+    "title": "每个大模型都始于一次小消融实验"
+  },
+  {
+    "id": "designing-the-model-architecture",
+    "title": "设计模型架构"
+  },
+  {
+    "id": "the-art-of-data-curation",
+    "title": "数据整理的艺术"
+  },
+  {
+    "id": "the-training-marathon",
+    "title": "训练马拉松"
+  },
+  {
+    "id": "beyond-base-modelspost-training-in-2025",
+    "title": "超越基座模型——2025 年的后训练"
+  },
+  {
+    "id": "infrastructurethe-unsung-hero",
+    "title": "基础设施——无名英雄"
+  },
+  {
+    "id": "conclusion",
+    "title": "结语"
+  },
+  {
+    "id": "references",
+    "title": "参考资料"
+  }
+]
